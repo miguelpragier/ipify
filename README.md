@@ -1,2 +1,2 @@
 # ipify
-Returns public ip provided by ipify api
+Returns public ip provided by [ipify](https://www.ipify.org/) api
